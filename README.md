@@ -13,3 +13,5 @@ src - для .py, inc - для заголовочных файлов.
 ![newbranch](https://github.com/stward417/b2_devops/blob/main/others/newbranch.jpg)
 
 Называть ветки рекомендуется по шаблону: developer_<your_name>. Пример: developer_ivanov.v
+
+При необходимости используйте конфигурационные файkы для настройки IDE PyCharm, которые находятся в папке .idea
