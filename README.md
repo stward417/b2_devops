@@ -10,3 +10,4 @@ src - для .py, inc - для заголовочных файлов.
 Для этого в PyCharm в меню VCS -> Create Git Repository создайте репозиторий и включите Git, если в меню еще не появилась вкладка Git.
 После внесения изменений в код создайте новую ветку. Необходимо переключиться в нижнюю вкладку Git -> Log:HEAD. Меню -> New branch.
 
+![](https://github.com/stward417/b2_devops/tree/main/others/newbranch.jpg)
