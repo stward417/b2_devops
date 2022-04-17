@@ -11,3 +11,5 @@ src - для .py, inc - для заголовочных файлов.
 После внесения изменений в код создайте новую ветку. Необходимо переключиться в нижнюю вкладку Git -> Log:HEAD. Меню -> New branch.
 
 ![newbranch](https://github.com/stward417/b2_devops/blob/main/others/newbranch.jpg)
+
+Называть ветки рекомендуется по шаблону: developer_<your_name>. Пример: developer_ivanov.v
