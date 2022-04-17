@@ -26,3 +26,5 @@ URL: https://github.com/stward417/b2_devops.git
 
 Для слияния сделайте Git -> Push. Не забудьте проверить название ветки, куда будете загружать код.
 
+![newbranch](https://github.com/stward417/b2_devops/blob/main/others/newpush.jpg)
+
