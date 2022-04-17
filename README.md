@@ -28,3 +28,27 @@ URL: https://github.com/stward417/b2_devops.git
 
 ![newbranch](https://github.com/stward417/b2_devops/blob/main/others/newpush.jpg)
 
+
+Для работы над проектом скачайте репозиторий:
+```
+git clone git@github.com:stward417/b2_devops.git
+```
+
+Для создания и перехода в ветку:
+```
+git branch developer_<your_name>
+git checkout developer_<your_name>
+```
+
+Для загрузки на удаленный репозиторий не забудьте закомитить изменения
+```
+git commit -m "You commit"
+git push origin developer_<your_name>
+```
+
+При слиянии вашей версии изменений hotfix с веткой developer_<your_name> не забудьте перейти
+в ветку developer_<your_name>
+```
+git checkout developer_<your_name>
+git merge hotfix
+```
