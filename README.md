@@ -39,7 +39,8 @@ Name: origin
 URL: https://github.com/stward417/b2_devops.git
 ```
 
-После внесения изменений в код создайте новую ветку. Необходимо переключиться в нижнюю вкладку Git -> Log:HEAD. Меню -> New branch.
+После внесения изменений в код создайте новую ветку.
+Необходимо переключиться в нижнюю вкладку Git -> Log:HEAD. Меню -> New branch.
 
 ![newbranch](https://github.com/stward417/b2_devops/blob/main/others/newbranch.jpg)
 
