@@ -34,8 +34,10 @@ git merge hotfix
 Для этого в PyCharm в меню VCS -> Create Git Repository создайте репозиторий и включите Git, если в меню еще не появилась вкладка Git.
 
 Далее свяжите ваш локальный репозиторий с удаленным: Git -> Manage Remotes... 
+```
 Name: origin
 URL: https://github.com/stward417/b2_devops.git
+```
 
 После внесения изменений в код создайте новую ветку. Необходимо переключиться в нижнюю вкладку Git -> Log:HEAD. Меню -> New branch.
 
@@ -51,6 +53,3 @@ URL: https://github.com/stward417/b2_devops.git
 Для слияния сделайте Git -> Push. Не забудьте проверить название ветки, куда будете загружать код.
 
 ![newbranch](https://github.com/stward417/b2_devops/blob/main/others/newpush.jpg)
-
-
-
