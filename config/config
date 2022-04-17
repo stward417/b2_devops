@@ -5,9 +5,15 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
+	editor = Notepad++
 [remote "origin"]
 	url = git@github.com:stward417/b2_devops.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "master"]
+[branch "main"]
 	remote = origin
-	merge = refs/heads/master
+	merge = refs/heads/main
+[user]
+	email = stward417@gmail.com
+	name = stward417
+[alias]
+	history = log --graph
